@@ -10,7 +10,7 @@ jobs:
 
   build:
     env:
-      TAG: ubuntu20-nginx:$(date +%s)
+      TAG: ubuntu20-nginx
 
     runs-on: ubuntu-latest
 
